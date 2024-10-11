@@ -5,7 +5,7 @@ To implement Hierarchical Clustering using single and complete linkage method
 
 ## Equipments Required:
 1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+2. Anaconda – Python 3.7 Installation / Jupyter notebook 
 
 ## Algorithm
 1.Compute the distance between every pair of data points,resulting in a distance matrix.
